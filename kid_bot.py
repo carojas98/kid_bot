@@ -12,3 +12,5 @@ from selenium.common.exceptions import TimeoutException
 
 import time
 import urllib.parse 
+
+#Configuración Navegador
